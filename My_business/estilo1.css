@@ -1,0 +1,16 @@
+@CHARSET "ISO-8859-1";
+
+
+#cima {
+	position: absolute;
+	width: 99%;
+	height: 10%;
+	border: 1px solid;
+	background-color: #7FFFD4;
+	
+}
+
+.pesq {
+	float: right;
+	
+}

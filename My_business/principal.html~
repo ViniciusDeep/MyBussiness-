@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>MY BUSINESS</title>
+<link rel="stylesheet" type="text/css" href="estilo.css">
+
+</head>
+<body>
+
+	<div id="corpo">
+
+
+		<div id="cima">
+			<a href="/media/leonardo/LEO/My_business/cadastro/cadastro/index.html" target="_blank"  ><button class="cadastrar">Cadastrar  </button> </a>
+			<a href="/media/leonardo/LEO/My_business/index.html"><button class="entrar">Entrar</button> </a>
+			
+
+		</div>
+
+
+		<div id="meio">
+
+			<div id="lado"></div>
+
+			<div id="centro">
+				<br> <br> <br> <br> <br> <br>
+				<h2 class="texto1">Você cresce com a gente</h2>
+			</div>
+
+		</div>
+
+
+
+		<div id="baixo">
+		
+		
+		</div >
+		
+		
+
+
+
+
+	</div>
+
+
+</body>
+</html>

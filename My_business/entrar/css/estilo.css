@@ -1,0 +1,93 @@
+@font-face {
+    font-family: "Freebooter Script";
+    src: url('../fonts/freebooter_script/FREEBSC_.ttf');
+}
+
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    max-width: 100%;
+    max-height: 100%;
+    background-image: url('../img/14438787_1129420173820646_597562897_o.png');
+}
+
+header{
+    background: #4080FF;
+    position: relative;
+    width: 100%;
+    height: 100px;
+    box-shadow: 0 0 20px #333;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+h1{
+    font-family: "Freebooter Script", sans-serif;
+    text-align: center;
+    color: #fff;
+    font-size: 60px;
+    
+}
+
+.blend-gradient{
+    background: linear-gradient(-135deg, rgb(64, 128, 255), rgb(52, 152, 219));
+    background: -webkit-linear-gradient(-135deg, rgb(64, 128, 255), rgb(52, 152, 219));
+}
+
+.formu{
+    background-color: #ffffff;
+    box-shadow:  0 0 2px #333;
+    width: 700px;
+    height: 700px;
+    margin: 12px auto;
+    border-radius: 5px;
+}
+
+#nome_logo{
+    color: #000000;
+    font-family: "Times New Roman", sans-serif;
+}
+
+#formula {
+	 width: 100%;   height:99%;  padding: 20px;     background: #f0f0f0;     overflow:auto;       /* Border style */     border: 1px solid #cccccc;     -moz-border-radius: 7px;     -webkit-border-radius: 7px;     border-radius: 7px;        /* Border Shadow */     -moz-box-shadow: 2px 2px 2px #cccccc;     -webkit-box-shadow: 2px 2px 2px #cccccc;     box-shadow: 2px 2px 2px #cccccc;  
+
+
+	
+}
+
+input.botao {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #ffffff;
+	padding: 10px 20px;
+	background: -moz-linear-gradient(
+		top,
+		#00a1f7 0%,
+		#0339db);
+	background: -webkit-gradient(
+		linear, left top, left bottom,
+		from(#00a1f7),
+		to(#0339db));
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	border: 3px solid #00aeff;
+	-moz-box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 10px rgba(245,0,245,0.7);
+	-webkit-box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 10px rgba(245,0,245,0.7);
+	box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 10px rgba(245,0,245,0.7);
+	text-shadow:
+		0px -1px 0px rgba(000,000,000,0.4),
+		0px 1px 0px rgba(255,255,255,0.3);
+}
+
+

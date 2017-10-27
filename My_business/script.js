@@ -1,0 +1,3 @@
+function fuc() {
+	alert("sdasd");
+}

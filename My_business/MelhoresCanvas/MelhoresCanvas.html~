@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, shrink-to-fit=no, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+	<link rel="icon" href="business-icon.png" type="image/x-icon" />
+    <title>MY BUSINESS</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/simple-sidebar.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <div id="wrapper">
+
+        <!-- Sidebar -->
+        <div id="sidebar-wrapper">
+            <ul class="sidebar-nav">
+                  <br>
+                  <li >
+                    <img src="ee78843a7914457bb46fcdb6a48ae108.jpg" class="aligncenter" height="144px" width="200px">	
+                    
+                </li>
+                
+                <li class="sidebar-brand">
+                    <a href="#">
+                        MY BUSINESS
+                      
+                    </a>
+                </li>
+                
+                  
+              
+                
+                <li >
+                    <a href="#">Meus Canvas</a>
+                    
+                </li>
+                <li>
+                    <a href="#">Canvas Avaliados</a>
+                </li>
+                <li>
+                    <a href="#">Melhores Canvas</a>
+                </li>
+                <li>
+                    <a href="/media/leonardo/LEO/My_business/Investidores/investidores.html">Investidores</a>
+                </li>
+                <li>
+                    <a href="#">Sobre</a>
+                </li>
+                <li>
+                    <a href="#">Configurações</a>
+                </li>
+                
+                <li>
+                    <a href="#">Sair</a>
+                </li>
+                
+          
+                
+            </ul>
+        </div>
+        <!-- /#sidebar-wrapper -->
+
+        <!-- Page Content -->
+        <div id="page-content-wrapper">
+            <div class="container-fluid">
+                <div class="row">
+                  
+                    <div class="col-lg-12">
+                        <h1></h1> <br> 
+                     
+                        <p></p>
+                        <p></code></p>
+                      <a  href="#menu-toggle" class="btn btn-default" id="menu-toggle">Mostrar somente o canvas</a>    <br>
+                  	
+                  		<img src="https://placehold.it/400?text=ZP" height="54" width="54" alt="" class="perfil-avatar" data-reactid=".0.0.1.1.0.0.0.$0.0.0.0">
+ 						<h3 class="perfil-nome" data-reactid=".0.0.1.1.0.0.0.$0.0.0.1">Zenóbio Peres Avaliou este canvas:   </h3>     <img class="img1" src="http://3.bp.blogspot.com/-w9Sa9Yq1vzI/TzivtfpgGbI/AAAAAAAABNI/d6cB3XFqU88/s320/st.png" width="30px" height="30px"> 
+ 						<img class="img1" src="http://3.bp.blogspot.com/-w9Sa9Yq1vzI/TzivtfpgGbI/AAAAAAAABNI/d6cB3XFqU88/s320/st.png" width="30px" height="30px"> 
+ 						<img class="img1" src="http://3.bp.blogspot.com/-w9Sa9Yq1vzI/TzivtfpgGbI/AAAAAAAABNI/d6cB3XFqU88/s320/st.png" width="30px" height="30px"> 
+ 						<img class="img1" src="http://3.bp.blogspot.com/-w9Sa9Yq1vzI/TzivtfpgGbI/AAAAAAAABNI/d6cB3XFqU88/s320/st.png" width="30px" height="30px"> 
+ 						<img class="img1" src="http://3.bp.blogspot.com/-w9Sa9Yq1vzI/TzivtfpgGbI/AAAAAAAABNI/d6cB3XFqU88/s320/st.png" width="30px" height="30px"> <br>
+ 						
+ 						<img src="https://s3-us-west-2.amazonaws.com/sebrae-canvas/canvas/shots/7338/fa1ccd00f48c4507b40ca78bb82d2bb8.jpg"  data-reactid=".0.0.1.1.0.0.0.$0.0.0.0">
+ 						<br>
+ 						
+ 						
+ 						
+ 						<br>
+ 						<br>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /#page-content-wrapper -->
+
+    </div>
+    <!-- /#wrapper -->
+
+	
+
+
+
+
+
+
+
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Menu Toggle Script -->
+    <script>
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#wrapper").toggleClass("toggled");
+    });
+    </script>
+
+</body>
+
+</html>

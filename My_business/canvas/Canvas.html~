@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Canvas	</title>
+<link rel="stylesheet" type="text/css" href="estilo.css">
+
+
+</head>
+<body>
+	<header class="blend-gradient">
+    <h1>Canvas</h1>
+    <span id="enviar" href="#">Enviar Canvas!</span>
+  </header>
+	
+	
+	<div id="canvas">
+		<div id="principal_01">
+			<div id="bloco_01">
+				<div id="parceiros">
+					<h1 class="centro">Parceiros chave</h1>
+				</div>
+				
+				<div id="atividades">
+				<h1 class="centro">Atividades chave</h1>
+				</div>
+				<div id="recursos">
+				<h1 class="centro">Recursos chave</h1>
+				</div>
+		</div>
+		
+		<div id="bloco_02">
+			<div id="proposta">
+			<h1 class="centro">Proposta de valor</h1>
+			</div>
+		</div>
+		
+		<div id="bloco_03">
+		
+				<div id="segmento">
+				<h1 class="centro">Segmentos de cliente</h1>
+				</div>
+				<div id="relacionamento">
+				<h1 class="centro">Relacionamentos</h1>
+				</div>
+				<div id="canais">
+				<h1 class="centro">Canais</h1>
+				</div>
+		</div>
+			</div>
+			
+		
+		<div id="principal_02">
+			<div id="bloco_04">
+			<h1 class="centro">Estrutura de custo</h1>
+		</div>
+		
+		<div id="bloco_05">
+		<h1 class="centro">Fluxo de receita</h1>
+		</div>
+		
+		
+	</div>
+	<br>
+	<footer><h2>MyBusiness productions &copy - Todos os direitos reservados - 2016</h2></footer>
+	
+	
+	
+	
+	
+</body>
+</html>

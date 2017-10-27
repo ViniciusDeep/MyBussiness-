@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang= "pt-br">
+    <head>
+        <meta charset="UTF-8">
+	   <title> </title>
+	   <link rel="stylesheet" href="css/style.css"/>
+	   <link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans" rel="stylesheet">
+	   <link href="https://fonts.googleapis.com/css?family=Titillium+Web" rel="stylesheet">
+     </head>
+
+     <body>
+	<div id = "corpo" >
+
+	   <div id = "banner"> 
+		<h2 class="titulo">  Conheça A Nossa Plataforma My Bussines  </h2>
+
+		<h2 class="propaganda"> Monte o Seu Negócio! </h2>
+ 	   </div>
+	   <div id = "esquerda">
+		<img src="imagens/canvas.jpg" width="250px" height="220px" class="imagem"/>
+		<p class="descricaoesquerda"> Com o My Bussines Você Poderá Organizar e criar Suas Ideias e Negócios Com a Ferramenta Canvas, Bastante 			Fácil e Prática de Utilizar Além De Toda Segurança Para Salva-los.</p>
+           </div>
+	   
+	   <div id = "meio" >
+		<img src="imagens/img2.jpg" width="250px" height="220px" class="imagem"/>
+		<p class="descricao"> A ferramenta lhe guiará para o sucesso, dando o suporte necessário para que seu negócio vá para frente! 			</p>
+	   </div>
+	   <div id = "direita">
+		<img src="imagens/duvida.png" width="220px" height="200px" class="imagem"/>
+		<p class="descricaodireita"> Tire Suas Dúvidas Com Outros Usuários, Como Melhorar na Montagem Do Seu Canvas Ou Melhorar Seu Negócio 			Já Existente.</p>
+	   </div>
+	   
+           <div id = "rodape" >	
+		<!-- <h1 class="contato"> Redes Sociais: </h1>
+	             <ul>
+			<li><a class="facebookicon" target="_blank" rel="nofollow" title="acesse" href="https://www.facebook.com/       "></a> <img src="imagens/facebook.png" width="40px" height="40px"></li> 
+
+			
+			<li><a class="twittericon" target="_blank" rel="nofollow" title="acesse" href="https://www.twitter.com/       "></a><img src="imagens/twitter.png" width="40px" height="40px"> </li>
+	              </ul> -->
+
+			  	
+           </div>
+
+
+	</div>
+     </body>
+
+</html>

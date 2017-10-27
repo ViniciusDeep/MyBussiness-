@@ -1,0 +1,143 @@
+
+body {
+	background-image:url('/home/leonardo/Documentos/portifólio/imagens/backg.jpg');
+	background-repeat: no-repeat center top fixed;
+	background-size: 100% 100%;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+	padding: 0;
+  	 margin: 0;
+}
+
+#corpo{
+	
+	height: 647px;
+	max-width: 1550px;
+	margin: 0 auto;
+}
+
+#esquerda{
+	
+	height: 50%;
+	width: 30%;
+	float: left;
+	position: relative;
+	top: 26px;
+	margin: 20px;
+	border-radius: 20px;
+	background: #3498db;
+}
+
+#meio{
+ 	
+	height: 50%;
+	width: 30%;
+	float: left;
+	position: relative;
+	top: 26px;
+	margin: 20px;
+	background: #3498db;
+	border-radius: 20px;
+}
+
+#direita{
+	
+	height: 50%;
+	width: 	30%;
+	float: left;
+	position: relative;
+	top: 26px;
+	margin: 20px;
+	background: #3498db;
+	border-radius: 20px;
+}	
+
+#banner{
+		
+	height: 25%;
+	width: 100%;
+	float: left;
+	position: relative;
+	margin: 0 auto;
+	
+
+}
+
+#rodape{
+	
+	height: 25%;
+	width: 100%;
+	position: relative;
+	bottom: 0 ;
+       
+}
+
+.imagem{
+	vertical-align:middle;
+	text-align:center;
+	position: relative;
+	margin: 6px 66px auto;
+}
+.descricaoesquerda{
+	color: black;
+	font-family: 'Titillium Web', sans-serif;
+	text-align:center;
+	margin: 5px;
+}
+
+.descricao{
+	color: black;
+	font-family: 'Titillium Web', sans-serif;
+	text-align:center;
+	margin: 15px;
+}
+
+.descricaodireita{
+	color: black;
+	font-family: 'Titillium Web', sans-serif;
+	text-align:center;
+	margin: 30px;
+	font-size: 17px;
+
+
+}
+.descricao a:hover{
+	background-color: blue;
+}
+
+.titulo{
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight:bold;
+	font-size: 40px;
+	text-align: center;
+	margin: 20px;
+}
+
+.propaganda{
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight:bold;
+	font-size: 30px;
+	text-align: center;
+	
+
+}
+.contato{
+	padding-left: 2%;
+	font-size: 20px;
+	font-family: sans-serif;
+	color: Tomato;
+	
+}
+
+
+
+
+

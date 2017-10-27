@@ -1,0 +1,337 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    max-width: 1600px;
+    height: 832px;
+    background: #ECF0F1;
+    background-image: url('http://homedepil.com.br/blog/wp-content/uploads/2015/10/negocios-e1445278753885.jpg');
+}
+
+header{
+    background: #4080FF;
+    position: relative;
+    width: 100%;
+    height: 10%;
+    box-shadow: 0 0 20px #333;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+h1{
+    font-family: Time New Roman, sans-serif;
+    text-align: center;
+    color: #fff;
+    font-size: 80px;
+    
+}
+
+.blend-gradient{
+    background: linear-gradient(-135deg, rgb(64, 128, 255), rgb(52, 152, 219));
+    background: -webkit-linear-gradient(-135deg, rgb(64, 128, 255), rgb(52, 152, 219));
+}
+
+#enviar{
+	  background: #ffffff;
+    color: #2980b9;
+    border-radius: 25px;
+    position: relative;
+    box-shadow: 0 0 20px #3c3c3c;
+    float: left;
+    padding: 6px;
+    width: 139px;
+
+    margin-left: 1300px;
+    cursor: pointer;
+    font-weight: bolder;
+    text-align: center;
+}
+
+#volta {
+		  background: #ffffff;
+    color: #2980b9;
+    border-radius: 25px;
+  
+    box-shadow: 0 0 20px #3c3c3c;
+
+    padding: 6px;
+    width: 139px;
+ 
+      cursor: pointer;
+    font-weight: bolder;
+    text-align: center;
+}
+
+#volta:hover {
+	background: #4080ff;
+    color: #ffffff;
+    border-radius: 25px;
+    position: relative;
+    box-shadow: 0 0 20px #3c3c3c;
+    
+   
+}
+
+#enviar:hover{
+	
+	  background: #4080ff;
+    color: #ffffff;
+    border-radius: 25px;
+    position: relative;
+    box-shadow: 0 0 20px #3c3c3c;
+    
+   
+}
+
+#canvas{
+	width:90%;
+	height: 73%;
+	background: #ffffff;
+	margin: 50px auto;
+	box-shadow: 0 0 20px #3c3c3c;
+	border-radius: 10px;
+	position: relative;
+	
+}
+
+#principal_01{
+	width: 100%;
+	height: 70%;
+	border: 2px solid #3c3c3c;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	position: relative;
+	
+}
+
+#principal_02{
+	width: 100%;
+	height: 30%;
+	border: 1px solid #3c3c3c;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	position: relative;
+}
+
+#bloco_01{
+	width: 35%;
+	height: 100%;
+	border-right: 1px solid #3c3c3c;
+	float: left;
+	position: relative;
+}
+
+#bloco_02{
+	width: 30%;
+	height: 100%;
+	border-right: 1px solid #3c3c3c;
+	float: left;
+	position: relative;
+}
+
+#bloco_03{
+	width: 35%;
+	height: 100%;
+	float: right;
+	position: relative;
+}
+
+#bloco_04{
+	width: 50%;
+	height: 100%;
+	border-right: 1px solid #3c3c3c;
+	float: left;
+	position: relative;
+}
+
+#bloco_05{
+	width: 50%;
+	height: 100%;
+	border-left: 1px solid #3c3c3c;
+	float: left;
+	position: relative;
+}
+
+#parceiros{
+	width:50%;
+	height: 100%;
+	border-right: 1px solid #3c3c3c;
+	float: left;
+	position: relative;
+	
+}
+
+#atividades{
+	width:50%;
+	height: 50%;
+	border-bottom: 1px solid #3c3c3c;
+	float: right;
+	position: relative;
+}
+
+#recursos{
+	width:50%;
+	height: 50%;
+	float: right;
+	position: relative;
+}
+
+#proposta{
+	width: 100%;
+	height: 100%;
+	border: 1 solid #3c3c3c;
+	position: relative;
+	float: left;
+}
+
+#relacionamento{
+	width:50%;
+	height: 50%;
+	border-bottom: 1px solid #3c3c3c;
+	float: left;
+	position: relative;
+}
+
+#segmento{
+	width:50%;
+	height: 100%;
+	border-left: 1px solid #3c3c3c;
+	float: right;
+	position: relative;
+}
+
+#canais{
+	width:50%;
+	height: 50%;
+	float: left;
+	position: relative;
+}
+
+.centro{
+	text-align: center;
+	font-style: italic;
+ color: #3c3c3c;
+ font-size: 24px;
+ margin-top: 10px;
+ font-weight: bold;
+ 
+}
+
+
+
+h2{
+		font-family: Time New Roman, sans-serif;
+    text-align: center;
+    color: #3c3c3c;
+}
+
+button.but {
+	margin: 10px 10px 10px 65px;
+}
+
+#exer2 {
+	margin: 10px 10px 10px 60px;
+	
+}
+
+#exer3 {
+	margin: 10px 10px 10px 60px;
+	
+}
+
+#exer4 {
+	margin: 10px 10px 10px 160px;
+	
+}
+
+#exer5 {
+	margin: 10px 10px 10px 60px;
+	
+}
+
+#exer6 {
+	margin: 10px 10px 10px 60px;
+	
+}
+
+#exer7 {
+	margin: 10px 10px 10px 60px;
+	
+}
+
+#exer8 {
+	margin: 10px 10px 10px 300px;
+	
+}
+
+#exer9 {
+	margin: 10px 10px 10px 300px;
+	
+}
+
+#exer10 {
+	margin: 10px 10px 10px 60px;
+	
+}
+
+#bot3 {
+	margin: 10px 10px 10px 160px;
+	
+}
+
+#bot4 {
+	margin: 10px 10px 10px 300px;
+	
+}
+
+#bot5 {
+	margin: 10px 10px 10px 300px;
+	
+}
+
+button {
+	    padding: 8px;
+    width: 120px;
+    font-size: 11px;
+    font-size: .6875rem;
+    color: #818181;
+    font-weight: 600;
+    text-align: left;
+    background-color: #efefef;
+    background-color: rgba(0,0,0,.07);
+    border: 0;
+    outline: 0;
+    -webkit-transition: all .3s;
+    transition: all .3s;
+}
+
+button:hover {
+	       align-items: flex-start;
+    text-align: center;
+    cursor: default;
+   
+    background-color: buttonface;
+    box-sizing: border-box;
+    padding: 2px 6px 3px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: buttonface;
+    border-image: initial;
+    webkit-appearance: button;
+}
+
+.canvas-input-title {
+
+    margin:  0px 0px 0px 80px;
+    font-size: 30px;
+    font-size: 2.1875rem;
+    font-weight: 100;
+    color: #627383;
+    border: 0;
+    border-bottom: 1px solid #DEE0E1;
+    background-color: #F8FAFB;
+    outline: 0;
+}
