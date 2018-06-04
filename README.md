@@ -1,6 +1,6 @@
 # MyBussiness-
 This applicantion, create the canvas, for the created was used CSS, HTML, JavaScript, can use to model!
-Exercise JS
+Exercise JS. DOM
 
 # Preview
 
